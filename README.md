@@ -29,7 +29,7 @@ To test the practise code:
 ; cd 3_testing_for_errors # Practise code for testing errors
 
 # This will install the dependencies (pytest)
-; pipenv install # NB: you may need to change interpreters 
+; pipenv install # NB: you may need to change interpreters to import pytest
 
 # This will activate the project's virtualenv
 ; pipenv shell

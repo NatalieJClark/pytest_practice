@@ -26,7 +26,7 @@ To test the practise code:
 # cd into the relevant directory:
 ; cd 1_testing_functions # Practise code for testing functions
 ; cd 2_testing_classes # Practise code for testing classes
-; cd 2_testing_for_errors # Practise code for testing errors
+; cd 3_testing_for_errors # Practise code for testing errors
 
 # This will install the dependencies (pytest)
 ; pipenv install # NB: you may need to change interpreters 

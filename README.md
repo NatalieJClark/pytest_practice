@@ -24,7 +24,7 @@ pipenv, version ...
 To test the practise code: 
 ```shell
 # This will install the dependencies (pytest)
-; pipenv install
+; pipenv install # NB: you may need to change interpreters 
 
 # This will activate the project's virtualenv
 ; pipenv shell
@@ -33,7 +33,5 @@ To test the practise code:
 ; pytest
 
 # This will exit the pipenv shell
-; exit
-or
-Ctrl-D
+; exit # or Ctrl-D
 ```

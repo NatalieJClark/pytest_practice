@@ -18,7 +18,7 @@ This project uses `pipenv`. Here's how to install it:
 ; pip3 install --user pipenv
 ; echo 'export PATH="$PATH:$(python3 -m site --user-base)/bin" # Add Pipenv to PATH' >> ~/.zshrc
 ; source ~/.zshrc
-; pipenv --version
+; pipenv --version # Check pipenv is installed
 pipenv, version ...
 ```
 To test the practise code: 

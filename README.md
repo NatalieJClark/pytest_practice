@@ -28,15 +28,19 @@ To test the practise code:
 ; cd 2_testing_classes # Practise code for testing classes
 ; cd 3_testing_for_errors # Practise code for testing errors
 
-# This will install the dependencies (pytest)
+# Install the dependencies (pytest)
 ; pipenv install # NB: you may need to change interpreters to import pytest
 
-# This will activate the project's virtualenv
+# Run all of the tests
+; pipenv run pytest
+
+# Or...
+# Activate the project's virtualenv
 ; pipenv shell
 
-# This will run all of the tests
+# Then run all of the tests
 ; pytest
 
-# This will exit the pipenv shell
+# Exit the pipenv shell
 ; exit # or Ctrl-D
 ```

@@ -31,4 +31,9 @@ To test the practise code:
 
 # This will run all of the tests
 ; pytest
+
+# This will exit the pipenv shell
+; exit
+or
+Ctrl-D
 ```
